@@ -15,7 +15,6 @@
     <ImgPb
     :record="props"
     :filename="img"
-      src=""
       class="w-[352px] h-[235px] absolute left-[-0.5px] top-[-24.5px] object-cover"
     />
   </div>
